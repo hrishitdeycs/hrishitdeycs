@@ -1,14 +1,11 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Hrishit Dey</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishitdeycs&label=Profile%20views&color=0e75b6&style=flat" alt="hrishitdeycs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishitdeycs" alt="hrishitdeycs" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/la_pulga6" target="blank"><img src="https://img.shields.io/twitter/follow/la_pulga6?logo=twitter&style=for-the-badge" alt="la_pulga6" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<p align="left"> <a href="https://twitter.com/la_pulga6" target="blank"><img src="https://img.shields.io/twitter/follow/la_pulga6?logo=twitter&style=for-the-badge" alt="la_pulga6" /></a> </p>
+
 
 - 🌱 I’m currently learning **Matplotlib and Seaborn**
 
